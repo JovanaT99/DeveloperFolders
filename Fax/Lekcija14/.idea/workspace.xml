@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca1809d5-866c-4e24-a82b-3d226544fef7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Geometrija/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geometrija/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geometrija/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geometrija/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geometrija/Geometrija.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geometrija/src/geometrija/Figura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geometrija/src/geometrija/Kvadrat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija13/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija13/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija13/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija13/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija13/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija13/Lekcija13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija13/src/Zadatak1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija13/src/Zadatak1/Osoba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija13/src/zadatak2/Knjiga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija13/src/zadatak2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija13/src/zadatak3/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija13/src/zadatak3/Navijac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija13/src/zadatak3/StadionUlaznica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija13/src/zadatak3/TestArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija13/src/zadatak4/HashMaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija13/src/zadatak5/Biblioteka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija13/src/zadatak5/Knjiga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija13/src/zadatak5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/primer1/MainPb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/primer1/PostanskiBroj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/primer2/Knjiga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/primer2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/primer3/Cutljiv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/primer3/Eknjiga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/primer3/Fabrika.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/primer3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/primer3/Sms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PotrosnjaStruje/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PotrosnjaStruje/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PotrosnjaStruje/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PotrosnjaStruje/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PotrosnjaStruje/PotrosnjaStruje.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PotrosnjaStruje/src/glavni/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PotrosnjaStruje/src/izvor/Izvor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PotrosnjaStruje/src/izvor/Uputsvo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PotrosnjaStruje/src/uredjaji/GrupaPotrosaca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PotrosnjaStruje/src/uredjaji/Potrosac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PotrosnjaStruje/src/uredjaji/TipUredjaja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PotrosnjaStruje/src/uredjaji/Uredjaj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Svastara/.idea/Svastara.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Vezba/Vezba.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zivotinje/zivotinje.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\InteliJ\IntelliJ IDEA Community Edition 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2E0JKJgC2wXYTyabxkBDM79jzNI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="primer3.Main" />
+      <module name="Lekcija14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="primer3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="primer2.Main" />
+      <module name="Lekcija14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="primer2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="primer1.MainPb" />
+      <module name="Lekcija14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="primer1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Maintest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="primer1.Maintest" />
+      <module name="Lekcija14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="primer1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MainPb" />
+        <item itemvalue="Application.Maintest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca1809d5-866c-4e24-a82b-3d226544fef7" name="Default Changelist" comment="" />
+      <created>1661726503066</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661726503066</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/primer2/Main.java</url>
+          <line>7</line>
+          <properties class="primer2.Main" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/primer3/Main.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

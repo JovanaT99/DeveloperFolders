@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c4bc67f-e91a-4fc6-8dc8-ea4e74761a64" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Fax/Geometrija/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Geometrija/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Geometrija/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Geometrija/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Geometrija/Geometrija.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Geometrija/src/geometrija/Figura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Geometrija/src/geometrija/Kvadrat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija13/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija13/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija13/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija13/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija13/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija13/Lekcija13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija13/src/Zadatak1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija13/src/Zadatak1/Osoba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija13/src/zadatak2/Knjiga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija13/src/zadatak2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija13/src/zadatak3/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija13/src/zadatak3/Navijac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija13/src/zadatak3/StadionUlaznica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija13/src/zadatak3/TestArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija13/src/zadatak4/HashMaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija13/src/zadatak5/Biblioteka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija13/src/zadatak5/Knjiga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija13/src/zadatak5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija14/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija14/Lekcija14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija14/src/primer1/MainPb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija14/src/primer1/PostanskiBroj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija14/src/primer2/Knjiga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija14/src/primer2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija14/src/primer3/Cutljiv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija14/src/primer3/Eknjiga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija14/src/primer3/Fabrika.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija14/src/primer3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija14/src/primer3/Sms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija15/Lekcija15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija15/src/Zadatak2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija15/src/zadatak1/Citljiv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija15/src/zadatak1/Eknjigaa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija15/src/zadatak1/Fabrika.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija15/src/zadatak1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija15/src/zadatak1/Sms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija15/src/zadatak1/Stampac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija15/src/zadatak3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija15/src/zadatak3/Slot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija15/src/zadatak4/Clan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija15/src/zadatak4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija15/src/zadatak5/AutoDeo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija15/src/zadatak5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija15/src/zadatak5/Motor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija15/src/zadatak6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija15/src/zadatak6/ObojenaTacka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija15/src/zadatak6/Tacka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/Lekcija15/src/zadatak6/Tacka3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/PotrosnjaStruje/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/PotrosnjaStruje/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/PotrosnjaStruje/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/PotrosnjaStruje/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/PotrosnjaStruje/PotrosnjaStruje.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/PotrosnjaStruje/src/glavni/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/PotrosnjaStruje/src/izvor/Izvor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/PotrosnjaStruje/src/izvor/Uputsvo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/PotrosnjaStruje/src/uredjaji/GrupaPotrosaca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/PotrosnjaStruje/src/uredjaji/Potrosac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/PotrosnjaStruje/src/uredjaji/TipUredjaja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fax/PotrosnjaStruje/src/uredjaji/Uredjaj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Grupa1/src/zaposleni/Asistent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Grupa1/src/zaposleni/Nastavnik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Grupa1/src/zaposleni/Profesor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Grupa1/src/zaposleni/Sala.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Grupa1/src/zaposleni/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ITBC/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ITBC/MobilnaTelefonija.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ITBC/ProjekatBlog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ITBCUtorak/ITBCUtorak.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ITBCUtorak/src/Utorak/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ITBCUtorak/src/Utorak/Blog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ITBCUtorak/src/Utorak/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ITBCUtorak/src/Utorak/posts/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ITBCUtorak/src/Utorak/posts/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ITBCUtorak/src/Utorak/users/AdminUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ITBCUtorak/src/Utorak/users/ModeratorUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ITBCUtorak/src/Utorak/users/RegularUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ITBCUtorak/src/Utorak/users/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ITBCUtorak/src/Utorak/users/enums/PermissionLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ITBCUtorak/src/Utorak/users/interfaces/Registrable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija16/src/Deljenje.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija16/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija16/src/Mnozenje.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija16/src/Oduzimanje.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija16/src/Operacija.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija16/src/Sabiranje.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/Biblioteka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/Citljiv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/Citljiv15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/Eknjiga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/Eknjiga15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/EvenMsi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/Fabrika.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/Fabrika15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/Fig10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/GraniceMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/Knjiga13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/Knjiga1306.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/Knjiga411.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/Lutrija.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/Main10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/Main103.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/Main13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/Main1305.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/Main1306.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/Main133.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/Main134.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/Main14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/Main141.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/Main143.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/Main15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/Main74.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/Main82.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/Main83.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/Main9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/Main92.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/MainArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/MainArr8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/MainGodDoba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/MainKnjiga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/MainPatern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/MainSc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/MainStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/MainVr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/Mainn84.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/Navijac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/Oosba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/Osoba13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/Osoba92.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/OsobaSC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/PostanskiBroj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/Sms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/Sms15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/StadionUlaznica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/Stampac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lekcija7/src/VremenskaPrognoza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobilnaTelefonija/MobilnaTelefonija.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobilnaTelefonija/src/Korisnik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobilnaTelefonija/src/Postpaid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobilnaTelefonija/src/Prepaid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobilnaTelefonija/src/Razgovor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobilnaTelefonija/src/TestKlasa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobilnaTelefonija/src/Vreme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pozoriste/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pozoriste/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pozoriste/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pozoriste/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pozoriste/Pozoriste.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjekatKuhinja/src/DbIngredient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjekatKuhinja/src/Difficulty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjekatKuhinja/src/Ingredient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjekatKuhinja/src/Priceable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjekatKuhinja/src/Recipe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjekatKuhinja/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjekatKuhinja/src/Unit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjekatKuhinja/src/WeightedIngredient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Svastara.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vezba/Vezba.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zivotinje/zivotinje.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\InteliJ\IntelliJ IDEA Community Edition 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Dr2sXGXj03zgXGgFUAujCs5zAy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c4bc67f-e91a-4fc6-8dc8-ea4e74761a64" name="Default Changelist" comment="" />
+      <created>1661443091853</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661443091853</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
